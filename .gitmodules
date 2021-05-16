@@ -1,0 +1,3 @@
+[submodule "HoneyComb-redistributable"]
+	path = HoneyComb-redistributable
+	url = git@github.com:VagueEntertainment/HoneyComb-redistributable.git
