@@ -36,4 +36,10 @@ Depending on your package manager of choice the setup should be the same as abov
 **Stand alone**
 1. Download the Honeycomb-redistrbutable package from here: https://github.com/VagueEntertainment/HoneyComb-redistributable/releases.
 
-2. Extract the archive to the Framed directory so that it overwrites the Honeycomb-redistributable folder already in the directory.
+2. Extract the contents of the Honeycomb-redistrbutable archive into the Framed/Honeycomb-redistributable directory.
+
+3. Test the installation by issuing this command from the Framed directory (in a terminal):
+```
+./Honeycomb-redistributable/service/honeycomb.py
+```
+If there are no errors you're ready to run Framed in stand alone mode.
