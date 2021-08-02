@@ -19,7 +19,7 @@ Framed itself should run on most modern linux distrobutions with python3 install
 ``` 
 sudo apt install python3-pip
 pip install hivepy
-pip install steempy
+pip install steem
 ```
 
 #### RPM based systems or from source distros.
@@ -44,3 +44,9 @@ Depending on your package manager of choice the setup should be the same as abov
 ./Honeycomb-redistributable/service/honeycomb.py
 ```
 If there are no errors you're ready to run Framed in stand alone mode.
+
+## Running Framed
+
+Once you've extracted the files in their proper places you can run framed by double clicking on the aproperiate executable Framed.x86_64 for PCs and Framed.rpi4 for raspberry pi 4 (and possibly 3). You can run it from the commandline as well by typing ./Framed.x86_64 -or- ./Framed.rpi4  from the Framed directory.
+
+
