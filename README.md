@@ -27,5 +27,6 @@ Depending on your package manager of choice the setup should be the same as abov
 
 ### Install cont.
 
-Once the prerequisites are installed simple download the latest version supplied above or clone the repo to your local machine. The two executables available are Framed.x86_64 and Framed.rpi4. Simply launch the version that best fits your hardware. 
+Next you will need to get the latest version from git along with the latest version of Framed https://github.com/VagueEntertainment/Framed/releases download and extract the archive where ever you plan on storing the program. If you plan on using Curator to manage the frame you're ready to go. Simply launch the executable with the extension that matches your hardware x86_64 for most PCs  and rpi4 for the raspberry pi 4 (might work on the 3 as well.)
 
+If you are planning to use Framed as a standalone application you will need to download the Honeycomb-redistrbutable package from here: https://github.com/VagueEntertainment/HoneyComb-redistributable/releases. Extract the archive to the Framed directory so that it overwrites the Honeycomb-redistributable folder already in the directory.
