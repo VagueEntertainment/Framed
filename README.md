@@ -7,7 +7,8 @@ Digital Picture frame for NFTShowroom and local images.
 
 ### Install instructions:
 
-Framed is distributed as a flatpak for all supported PC platforms and can be found over on http://flathub.net. Checkout their page on how to setup flatpak and flathub for your distro of choice.
+Framed is distributed as a flatpak for all supported PC platforms and can be found over on http://flathub.net. Checkout their page on how to setup flatpak and flathub for your distro of choice. 
+> **Note:** The flatpak contains all the libraries and services you will need so if possible use it before continuing through the  rest of the instructions. 
 
 ### Prerequisites
 
