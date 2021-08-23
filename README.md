@@ -18,8 +18,9 @@ Framed itself should run on most modern linux distrobutions with python3 install
 
 ``` 
 sudo apt install python3-pip
-pip install hivepy
-pip install steem
+pip3 install hivepy
+pip3 install steem
+pip3 install netifaces
 ```
 
 #### RPM based systems or from source distros.
